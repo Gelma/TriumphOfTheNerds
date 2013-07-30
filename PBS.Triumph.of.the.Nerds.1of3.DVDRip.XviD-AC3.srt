@@ -1,116 +1,114 @@
 1
 00:00:01,000 --> 00:00:04,074
-Subtitles downloaded from www.OpenSubtitles.org
+Sito della traduzione: http://trionfo.gelma.net
 
 2
 00:00:12,444 --> 00:00:18,701
-Hi, I'm Bob Cringely - and I'm here to tell you the incredible story
-of how personal computers took over the world.
+Ciao, sono Bob Cringely e voglio narrarvi l'incredibile storia
+della conquista del mondo dei personal computer.
 
 3
 00:00:18,701 --> 00:00:25,576
-Why am I telling you this at a basketball game? Well, I like
-the game - but mainly it's because of that guy down there.
+Perché ve lo sto raccontando da una partita di basket? Bhe, mi
+piace questo sport, ma soprattutto per quel tipo laggiù.
 
 4
 00:00:29,358 --> 00:00:37,513
-His name is Paul Allen and everything you see here belongs to him
--- the Portland Trailblazer's basketball team, their arena,
+Si tratta di Paul Allen e tutto ciò che vedete è suo: la squadra
+di basket, lo stadio,
 
 5
 00:00:37,513 --> 00:00:39,104
-even the dancers.
+perfino le ballerine.
 
 6
 00:00:40,290 --> 00:00:45,997
-Thanks to personal computers, he has $8 billion to spend
-on such toys.
+Grazie ai personal computer ha guadagnato 8 miliardi di dollari da
+spendere per questi giocattoli.
 
 7
 00:00:47,028 --> 00:00:53,216
-Twenty years ago Allen and his high school friend, Bill Gates,
- were running a two-man software company called Microsoft.
+Vent'anni fa (1976) Allen e un compagno di liceo, Bill Gates,
+gestivano da soli un'azienda di software chiamata Microsoft.
 
 8
 00:00:54,660 --> 00:00:59,560
-Today Allen is richer than God and Gates is richer than Allen.
+Oggi Allen è più ricco di Dio, e Gates è più ricco di Allen.
 
 9
 00:01:01,810 --> 00:01:06,004
-Twenty years ago, young men like Paul Allen and Bill Gates 
-invented the personal computer
+Vent'anni fa, giovani come Paul Allen e Bill Gates
+inventarono il personal computer
 
 10
 00:01:06,073 --> 00:01:10,886
-and in doing so launched a revolution that's changed the way
-we live, work and communicate.
+iniziando una rivoluzione che ha cambiato il modo in cui
+viviamo, lavoriamo e comunichiamo.
 
 11
 00:01:10,955 --> 00:01:13,877
-It's hard to believe that twenty years ago there were 
-no personal computers,
+Sembra incredibile che vent'anni fa non esistessero
+i personal computer,
 
 12
 00:01:13,946 --> 00:01:19,137
-now it's the third largest industry in the world, somewhere
-between energy production and illegal drugs
+ora si tratta della terza industria nel mondo,
+posizionata tra la produzione di energia e il narcotraffico
 
 13
 00:01:19,308 --> 00:01:27,181
-but the most amazing thing of all is that it happened by accident
-because a bunch of disenfranchised nerds wanted to
-impress their friends.
+ma la cosa più stupefacente è che il tutto è iniziato casualmente
+quando un manipolo di (gelma) disenfranchised nerd voleva impressionare gli amici.
 
 14
 00:02:02,934 --> 00:02:08,021
-This is the story of how a handful of guys launched an
-industrial revolution.
+Questa è la storia di come un pugno di amici abbia dato vita a
+una rivoluzione industriale.
 
 15
 00:02:08,296 --> 00:02:12,628
-How they changed the culture of business, how they made history.
+Come abbiano cambiato la cultura degli affari, di come abbiano fatto storia.
 
 16
 00:02:12,766 --> 00:02:18,678
-I feel incredibly lucky to be at exactly the right place in Silicon Valley,
+Sono stato estremamente fortunato nel trovarmi nel posto giusto in Silicon Valley,
 
 17
 00:02:18,747 --> 00:02:25,416
-at exactly the right time historically where this invention has,
-has taken form.
+nel momento storico giusto quando questa invenzione ha visto la luce.
 
 18
 00:02:26,345 --> 00:02:30,917
-It wasn't like we both thought it was going to go a long ways,
-it was like, we'll both do it for fun
+Nessuno di noi due credeva sarebbe durata a lungo,
+lo facevamo solo per divertimento
 
 19
 00:02:31,192 --> 00:02:36,039
-and even though we're goin' to lose some money probably
-we'll just have been able to say we had a company.
+e anche se probabilmente ci avessimo perso del danaro
+avremmo potuto dire di aver avuto una nostra azienda.
 
 20
 00:02:37,346 --> 00:02:42,915
-Now all of us would get together and just hope we were right
-that the PC would become a big thing.
+Tutti noi volevamo stare insieme semplicemente sperando
+di aver visto giusto sull'esplosione del fenomeno PC.
 
 21
 00:02:44,084 --> 00:02:51,131
-You know I stop and say wow the PC really has become part of the
+Gelma You know I stop and say wow the PC really has become part of the
 very fabric of the way people live
 
 22
 00:02:51,131 --> 00:02:56,322
-and we certainly surged with it. I used to stop and say
+Gelma and we certainly surged with it. I used to stop and say
 hmmm pretty incredible ride.
 
 23
 00:03:02,682 --> 00:03:05,948
-Most of these people come from the place I call home,
+Molte di queste persone provengono da ciò che io chiamo casa,
 
 24
 00:03:06,051 --> 00:03:09,042
-the Silicon Valley, south of San Francisco, California.
+la Silicon Valley, a sud di San Francisco, in California.
 
 25
 00:03:09,076 --> 00:03:12,926
