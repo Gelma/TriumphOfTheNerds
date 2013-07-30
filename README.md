@@ -1,5 +1,5 @@
 Traduzione italiana di [Triumph of the Nerds: The Rise of Accidental Empires](https://en.wikipedia.org/wiki/Triumph_of_the_Nerds)
-===========================================================================
+=================================================================================================================================
 
 File video
 ----------
@@ -21,3 +21,9 @@ Trascrizione della trasmissione
 * [Prima puntata](http://www.pbs.org/nerds/part1.html)
 * [Seconda puntata](http://www.pbs.org/nerds/part2.html)
 * [Terza puntata](http://www.pbs.org/nerds/part3.html)
+
+Contatti
+--------
+
+* [Sito](http://trionfo.gelma.net)
+* [email](mailto:trionfo@gelma.net)
