@@ -1602,7 +1602,7 @@ CPM 86
 
 345
 00:22:18,654 --> 00:22:21,247
-and frankly itÍs very hard to tell the difference 
+and frankly it\CDs very hard to tell the difference 
 between the two.
 
 346

@@ -9,12 +9,12 @@ della conquista del mondo dei personal computer.
 
 3
 00:00:18,701 --> 00:00:25,576
-PerchÈ ve lo sto raccontando da una partita di basket? Bhe, mi
-piace questo sport, ma soprattutto per quel tipo laggi˘.
+Perch√© ve lo sto raccontando da una partita di basket? Bhe, mi
+piace questo sport, ma soprattutto per quel tipo laggi√π.
 
 4
 00:00:29,358 --> 00:00:37,513
-Si tratta di Paul Allen e tutto ciÚ che vedete Ë suo: la squadra
+Si tratta di Paul Allen e tutto ci√≤ che vedete √® suo: la squadra
 di basket, lo stadio,
 
 5
@@ -33,7 +33,7 @@ gestivano da soli un'azienda di software chiamata Microsoft.
 
 8
 00:00:54,660 --> 00:00:59,560
-Oggi Allen Ë pi˘ ricco di Dio, e Gates Ë pi˘ ricco di Allen.
+Oggi Allen √® pi√π ricco di Dio, e Gates √® pi√π ricco di Allen.
 
 9
 00:01:01,810 --> 00:01:06,004
@@ -57,12 +57,12 @@ posizionata tra la produzione di energia e il narcotraffico
 
 13
 00:01:19,308 --> 00:01:27,181
-ma la cosa pi˘ stupefacente Ë che il tutto Ë iniziato casualmente
+ma la cosa pi√π stupefacente √® che il tutto √® iniziato casualmente
 quando un manipolo di (gelma) disenfranchised nerd voleva impressionare gli amici.
 
 14
 00:02:02,934 --> 00:02:08,021
-Questa Ë la storia di come un pugno di amici abbia dato vita a
+Questa √® la storia di come un pugno di amici abbia dato vita a
 una rivoluzione industriale.
 
 15
@@ -89,13 +89,13 @@ avremmo potuto dire di aver avuto una nostra azienda.
 
 20
 00:02:37,346 --> 00:02:42,915
-Tutti noi volevamo stare insieme semplicemente sperando
+Tutti noi volevamo semplicemente stare insieme, sperando
 di aver visto giusto sull'esplosione del fenomeno PC.
 
 21
 00:02:44,084 --> 00:02:51,131
-Gelma You know I stop and say wow the PC really has become part of the
-very fabric of the way people live
+Mi fermo e dico: "Wow! Il PC √® diventato parte integrante del
+modo di vivere
 
 22
 00:02:51,131 --> 00:02:56,322
@@ -104,7 +104,7 @@ hmmm pretty incredible ride.
 
 23
 00:03:02,682 --> 00:03:05,948
-Molte di queste persone provengono da ciÚ che io chiamo casa,
+Molte di queste persone provengono da ci√≤ che io chiamo casa,
 
 24
 00:03:06,051 --> 00:03:09,042
@@ -2006,7 +2006,7 @@ of high school,
 
 437
 00:38:46,162 --> 00:38:52,657
-I would ride my little moped down to the Apple offices and at 3 oÕclock
+I would ride my little moped down to the Apple offices and at 3 o√çclock
 I'd give the demonstrations of the Apple 2.
 
 438
