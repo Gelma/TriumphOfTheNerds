@@ -24,7 +24,7 @@ perfino le ballerine.
 6
 00:00:40,290 --> 00:00:45,997
 Grazie ai personal computer ha guadagnato 8 miliardi di dollari da
-spendere per questi giocattoli.
+spendere in questi giocattoli.
 
 7
 00:00:47,028 --> 00:00:53,216
@@ -185,93 +185,92 @@ Andiamo a incontrarne alcuni.
 
 40
 00:04:47,850 --> 00:04:52,910
-Meet Edwin Chin on a Saturday morning at the Weird Stuff Warehouse.
+Incontriamo Edwin Chin una sabato mattino al Magazzino della Roba Stramba.
 
 41
 00:04:55,165 --> 00:05:00,940
-This could be 1976 or 1996 because there is always a new
-generation of techies like Edwin
+Potrebbe essere il 1976 o il 1996 perché c'è sempre una nuova
+generazione di smanettoni come Edwin
 
 42
 00:05:00,975 --> 00:05:04,378
-who hear the calling. Most other kids are watching TV,
+interessati. Molti dei suoi coetanei staranno guardando la TV,
 
 43
 00:05:04,447 --> 00:05:05,650
-but not Edwin.
+ma non Edwin.
 
 44
 00:05:05,753 --> 00:05:14,176
-You know I've been interested in electronics and technology 
-as a hobby since I started when I was like six or seven you know.
+Mi sono appassionato all'elettronica e alla tecnologia
+fin dai 6-7 anni.
 
 45
 00:05:14,245 --> 00:05:17,350
-How old are you now, Edwin?
-- Ten, right now.
+Quandi anni hai ora, Edwin?
+- Dieci.
 
 46
 00:05:19,410 --> 00:05:23,500
-It's no coincidence that the only woman in the vicinity looks bored,
+Non è un caso che l'unica donna nelle vicinanze sia annoiata,
 
 47
 00:05:23,561 --> 00:05:32,499
-because this is a boy thing -- the obsession of a particular type
-of boy who would rather struggle with an electronic box than
-with a world of unpredictable people.
+perché questa è roba da uomini, l'ossessione di un particolare tipo
+di uomini che preferiscono lottare con una scatola elettronica che
+con un modo di persone imprevedibili.
 
 48
 00:05:32,533 --> 00:05:35,790
-We call them engineers, programmers, hackers, and techies,
+Sono ingegneri, programmatori, hackers, techies,
 
 49
 00:05:35,790 --> 00:05:38,200
-but mainly we call them nerds.
+ma soprattutto nerds.
 
 50
 00:05:38,893 --> 00:05:45,425
-I think a nerd is a person who uses the telephone 
-to talk to other people about telephones.
+Direi che un nerd sia una persona che usa un telefono
+per parlare con altri di telefoni.
 
 51
 00:05:45,910 --> 00:05:50,970
-And a computer nerd therefore is somebody who uses
-a computer in order to use a computer.
+Quindi un computer nerd è qualcuno che usa
+un computer al solo scopo di farlo.
 
 52
 00:05:55,463 --> 00:05:58,420
-And people have different degrees of passion and different 
-types of passion.
+Le persone hanno differenti tipi e livelli di passioni.
 
 53
 00:05:58,557 --> 00:06:04,883
-Some people like just live databases, like 5th normal form is just
-like nirvana, they just quest for it you know,
+Alcuni sono appassionati di database, percepiscono la normalizzazione
+come il nirvana, sono interessati solo a questo,
 
 54
 00:06:04,940 --> 00:06:06,940
-that's like what gets them up in the morning.
+è ciò che li fa alzare al mattino.
 
 55
 00:06:10,383 --> 00:06:12,410
-What do your friends think of you?
+Cosa pensano i tuoi amici di te?
 
 56
 00:06:12,410 --> 00:06:14,852
-Boy, he's a nerd.
+Amico, è un nerd.
 
 57
 00:06:16,296 --> 00:06:20,110
-but I don't mind, I'm used to being called a nerd,
+Ma non mi importa. Sono abituato a sentirmi chiamato nerd.
 
 58
 00:06:20,110 --> 00:06:23,240
-can't have other people stop your dreams.
+Non si può lasciare che altri distruggano i nostri sogni.
 
 59
 00:06:24,615 --> 00:06:29,360
-And in Silicon Valley the dream is to grow up to become
-a boy like this...
+Nella Silicon Valley il sogno è di crescere per diventare uno
+come...
 
 60
 00:06:31,903 --> 00:06:36,010
