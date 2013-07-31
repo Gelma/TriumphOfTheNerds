@@ -1,6 +1,6 @@
 1
 00:00:01,395 --> 00:00:03,057
-The story so far...
+The story so far…
 
 2
 00:00:03,257 --> 00:00:07,112
@@ -42,7 +42,7 @@ a billion dollars.
 
 10
 00:00:30,245 --> 00:00:31,907
-Now, view on...
+Now, view on…
 
 11
 00:01:00,823 --> 00:01:02,352
@@ -205,7 +205,7 @@ This is intergalactic HQ for IBM,
 
 46
 00:03:32,451 --> 00:03:34,312
-the largest computer company in the world...
+the largest computer company in the world…
 
 47
 00:03:34,312 --> 00:03:38,167
@@ -258,19 +258,19 @@ tune of Jingle Bells.
 57
 00:04:11,670 --> 00:04:15,858
 (Bob & Sam singing)
-'IBM, happy men, smiling all the way...
+'IBM, happy men, smiling all the way…
 
 58
 00:04:15,925 --> 00:04:17,587
-oh what fun it is to sell...
+oh what fun it is to sell…
 
 59
 00:04:17,587 --> 00:04:19,980
-our pruducts night and day....
+our pruducts night and day….
 
 60
 00:04:19,980 --> 00:04:24,101
-IBM Watson men, partners of TJ...
+IBM Watson men, partners of TJ…
 
 61
 00:04:24,101 --> 00:04:28,887
@@ -384,7 +384,7 @@ He feels better now.
 
 85
 00:05:56,300 --> 00:05:58,561
-I mean it's like... getting four hundred 
+I mean it's like… getting four hundred 
 thousand people
 
 86
@@ -393,16 +393,16 @@ to agree what they want to have for lunch.
 
 87
 00:06:00,422 --> 00:06:01,951
-You know... I mean it's how can I...
+You know… I mean it's how can I…
 
 88
 00:06:01,951 --> 00:06:03,280
-it's gonna be lowest common...
-you know...
+it's gonna be lowest common…
+you know…
 
 89
 00:06:03,280 --> 00:06:05,274
-it's going to be, you know...
+it's going to be, you know…
 hot dogs and beans!
 
 90
@@ -460,7 +460,7 @@ companies like Apple.
 101
 00:06:39,841 --> 00:06:43,564
 (commercial) the Apple 2, small inexpensive 
-and simple to use...
+and simple to use…
 
 102
 00:06:44,694 --> 00:06:48,084
@@ -499,11 +499,11 @@ mainframe kind of thing.
 109
 00:07:11,350 --> 00:07:15,538
 (commercial) JB wanted to know why I'm doing 
-better than all the other managers...
+better than all the other managers…
 
 110
 00:07:15,538 --> 00:07:17,864
-it's no secret...I have an Apple,
+it's no secret…I have an Apple,
 
 111
 00:07:17,864 --> 00:07:21,986
@@ -712,12 +712,12 @@ what we'll do.
 
 155
 00:10:10,098 --> 00:10:12,292
-You have a central processing unit and eh...
-let's see...
+You have a central processing unit and eh…
+let's see…
 
 156
 00:10:13,755 --> 00:10:21,133
-you need a monitor or display and...
+you need a monitor or display and…
 a keyboard.
 
 157
@@ -741,7 +741,7 @@ It's useless until you tell it what to do.
 
 161
 00:10:37,486 --> 00:10:41,275
-It requires a program of instructions...
+It requires a program of instructions…
 that's software.
 
 162
@@ -770,7 +770,7 @@ called BASIC
 167
 00:10:55,301 --> 00:10:58,492
 that Paul Allen and Bill Gates adapted to the 
-Altair...the first PC.
+Altair…the first PC.
 
 168
 00:10:58,757 --> 00:11:01,350
@@ -1203,7 +1203,7 @@ you're the only other guy here who can wear a suit.
 259
 00:17:00,310 --> 00:17:01,972
 A lot of these computer fairs discussions would get 
-around to, you know, I...
+around to, you know, I…
 
 260
 00:17:01,972 --> 00:17:04,564
@@ -1252,7 +1252,7 @@ funny agreements that sort of said
 
 270
 00:17:35,009 --> 00:17:39,330
-I...IBM could do whatever they wanted, 
+I…IBM could do whatever they wanted, 
 whenever they wanted
 
 271
@@ -1302,7 +1302,7 @@ he didn't have the rights to do that
 
 281
 00:18:13,631 --> 00:18:17,819
-and that it was not...he said but I think it's ready, 
+and that it was not…he said but I think it's ready, 
 I think that Gary's got it ready to go.
 
 282
@@ -1362,12 +1362,12 @@ Gary had some other plans and so he said well,
 294
 00:18:58,102 --> 00:19:02,024
 Dorothy will see you. So we went down the three 
-of us...
+of us…
 
 295
 00:19:02,290 --> 00:19:07,009
 IBM showed up with an IBM non-disclosure and 
-Dorothy made what I...
+Dorothy made what I…
 
 296
 00:19:07,076 --> 00:19:11,064
@@ -1762,7 +1762,7 @@ a fantastic achievement.
 378
 00:24:42,770 --> 00:24:46,160
 - After we got a package in the mail from the people 
-down in Florida...
+down in Florida…
 
 379
 00:24:46,160 --> 00:24:51,013
@@ -1817,7 +1817,7 @@ they would make fortunes.
 
 390
 00:25:26,178 --> 00:25:31,097
--...the attached information is not to be disclosed 
+-…the attached information is not to be disclosed 
 prior to any public announcement.
 
 391
@@ -1833,25 +1833,25 @@ of a $100 billion industry.
 393
 00:25:44,458 --> 00:25:48,912
 (promos) After years of thinking big today IBM 
-came up with something small...
+came up with something small…
 
 394
 00:25:49,177 --> 00:25:52,701
-...Big Blue is looking for a slice of Apple's 
-market share...
+…Big Blue is looking for a slice of Apple's 
+market share…
 
 395
 00:25:53,432 --> 00:25:55,891
-...Bits and Bytes mean nothing try this one...
+…Bits and Bytes mean nothing try this one…
 
 396
 00:25:56,490 --> 00:26:00,478
-...Now they're going to sell $1,000 computers 
-to millions of customers...
+…Now they're going to sell $1,000 computers 
+to millions of customers…
 
 397
 00:26:01,143 --> 00:26:04,533
-...I have seen the future said one analyst 
+…I have seen the future said one analyst 
 and it computes.
 
 398
@@ -1925,7 +1925,7 @@ Euphoric I guess is the right word.
 413
 00:27:17,987 --> 00:27:22,175
 Everybody was believed that they were 
-not going to...
+not going to…
 
 414
 00:27:22,175 --> 00:27:25,698
@@ -1966,8 +1966,8 @@ which meant trouble in the long run for Big Blue.
 
 422
 00:27:50,626 --> 00:27:55,678
-The key to our...the structure of our deal was that 
-IBM had no control over...
+The key to our…the structure of our deal was that 
+IBM had no control over…
 
 423
 00:27:55,678 --> 00:27:57,678
@@ -2248,7 +2248,7 @@ Oh no.
 
 483
 00:32:03,759 --> 00:32:05,354
-- And have you ever tried to disassemble...
+- And have you ever tried to disassemble…
 
 484
 00:32:05,354 --> 00:32:08,013
@@ -2322,7 +2322,7 @@ IBM compatibility.
 
 499
 00:32:53,814 --> 00:32:56,672
-- ...It turns out that all major popular software runs
+- …It turns out that all major popular software runs
 
 500
 00:32:56,672 --> 00:32:59,730
@@ -2650,7 +2650,7 @@ It was war.
 569
 00:37:32,274 --> 00:37:35,132
 (Presentation)
-- ...start planning for operating system 2 today...
+- …start planning for operating system 2 today…
 
 570
 00:37:35,199 --> 00:37:39,652
@@ -2887,7 +2887,7 @@ environment is worth?
 619
 00:41:00,338 --> 00:41:05,722
 - watch as Windows integrates Lotus 1, 2, 3 with 
-Miami Vice. Now we can take this...
+Miami Vice. Now we can take this…
 
 620
 00:41:06,121 --> 00:41:10,375
@@ -3168,7 +3168,7 @@ distributor of that technology
 679
 00:45:15,930 --> 00:45:20,583
 I mean it's just simply astounding that they 
-could ah...
+could ah…
 
 680
 00:45:20,849 --> 00:45:23,708
@@ -3182,7 +3182,7 @@ by accident
 
 682
 00:45:28,760 --> 00:45:31,751
-I mean no-one, no-one... I mean those two 
+I mean no-one, no-one… I mean those two 
 companies today are worth 
 
 683
@@ -3244,7 +3244,7 @@ put people under, you know.
 
 695
 00:46:35,832 --> 00:46:41,815
-And unfortunately, ah... that's happened a lot.
+And unfortunately, ah… that's happened a lot.
 
 696
 00:46:42,147 --> 00:46:45,870

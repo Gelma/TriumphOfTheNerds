@@ -164,7 +164,7 @@ dominate da dicerie e pettegolezzi. Mi nutro di entrambi.
 35
 00:04:17,625 --> 00:04:24,480
 La mia mail è piena di informazioni riservate che spaziano
-dai difetti dei prodotti fino ai nomi degli amanti.
+dai difetti dei prodotti fino alle tresche amorose.
 
 36
 00:04:25,920 --> 00:04:30,020
@@ -257,7 +257,7 @@ Cosa pensano i tuoi amici di te?
 
 56
 00:06:12,410 --> 00:06:14,852
-Amico, è un nerd.
+"Ragazzi, è un nerd."
 
 57
 00:06:16,296 --> 00:06:20,110
@@ -270,185 +270,187 @@ Non si può lasciare che altri distruggano i nostri sogni.
 59
 00:06:24,615 --> 00:06:29,360
 Nella Silicon Valley il sogno è di crescere per diventare uno
-come...
+come…
 
 60
 00:06:31,903 --> 00:06:36,010
-Graham Spencer is chief programmer for Architext Software
+Graham Spencer. È il manager dei programmatori della Architext Software,
 
 61
 00:06:36,166 --> 00:06:43,720
-six guys who graduated from Stanford University and started
-a company just because they like each other.
+azienda nata da sei giovani laureati alla Stanford Univerty per
+il gusto di stare insieme.
 
 62
 00:06:44,690 --> 00:06:51,670
-This is a modern-day startup, but at heart it's no different from
-PC pioneers like Apple, or Microsoft,
+Si tratta di una startup dei giorni nostri, ma che non ha alcuna
+differenza rispetto ai pionieri come Apple o Microsoft,
 
 63
 00:06:51,774 --> 00:06:53,630
-nerds who share a dream.
+formata da nerd che condividono un sogno.
 
 64
 00:06:53,630 --> 00:06:56,036
-Their hobby is their business
+La loro passione è il loro lavoro,
 
 65
 00:06:56,036 --> 00:07:01,070
-and the culture they've created is identical to that of a
-thousand other technology companies.
+e l'ambiente che hanno creato è lo stesso di migliaia
+di altre aziende tecnologiche.
 
 66
 00:07:01,606 --> 00:07:10,200
-First, they dumped the idea of nine to five. In this industry,
-you can work any 80 hours per week you like.
+Innanzitutto hanno cassato l'idea dell'orario d'ufficio. In
+questo settore si lavora anche per 80 ore la settimana, se si vuole.
 
 67
 00:07:10,338 --> 00:07:15,975
-...my cap which I use to cover my eyes and sleep in
-the early morning while everybody is coming in.
+…è il cappello che uso per coprirmi gli occhi e
+dormire al mattino mentre arrivano tutti.
 
 68
 00:07:16,044 --> 00:07:21,338
-We didn't even obey a 24 hour clock, we'd come in and
-programme for a couple of days straight.
+Arrivavamo a ignorare le 24 ore, venivamo a
+programmare per un paio di giorni di fila.
 
 69
 00:07:21,820 --> 00:07:28,214
-We'd - you know, four or five of us, when it was time to eat
-we'd all get in our cars, kind of race over to the restaurant
+Quando dovevamo mangiare saltavamo in macchina in 4 o 5
+correndo al ristorante
 
 70
 00:07:28,351 --> 00:07:30,758
-and sit and talk about what we were doing, sometimes I'd get...
+seduti a discutere di ciò su cui stavamo lavorando, mi capitava,
 
 71
 00:07:30,758 --> 00:07:34,471
-...excited talking about things, I'd forget to eat,
-but then you know, we'd just go back
+…dall'eccitazione, di dimenticare di mangiare,
+ma a quel punto dovevamo tornare e
 
 72
 00:07:34,471 --> 00:07:38,940
-and programme some more. It was us and our friends - 
-those were fun days.
+continuare a programmare. Eravamo noi e i nostri amici.
+Erano giorni felici.
 
 73
 00:07:50,559 --> 00:07:57,160
-Let's look in the refrigerator... Woah! We have
-coke and cold pizza.
+Guardiamo nel frigorifero… Wow! Abbiamo
+pizza fredda e Coca.
 
 74
 00:07:57,160 --> 00:07:58,810
-I drink about two litres of coke a day.
+Ne bevo circa due litri al giorno.
 
 75
 00:07:58,810 --> 00:08:03,416
-Two litres of coke a day and do you like think of it as brain food?
+Due litri al giorno di Coca li consideri cibo per il cervello?
 
 76
 00:08:03,554 --> 00:08:08,298
-It keeps me going you know, that and listening to heavy metal,
-and get caffeinated and hack.
+Mi tiene sveglio, insieme all'heavy metal,
+al caffè e alla programmazione.
 
 77
 00:08:13,592 --> 00:08:18,749
-I'd sit down in my room on the floor with sheets of paper spread
- all around with my computer design I was working on.
+Mi sedevo sul pavimento con tutti i fogli del progetto
+sul mio computer.
 
 78
 00:08:18,886 --> 00:08:24,318
-And always I noticed that I was up pretty late at night and I had
-lots of cokes - it's just part of that life.
+E stavo sveglio fino a tardi, con un mucchio di Coca.
+Tipico di quella vita.
 
 79
 00:08:26,243 --> 00:08:34,081
-A combination of stale pizza and body odour and spilt cola
+Gelma A combination of stale pizza and body odour and spilt cola
 kinda ground in to the rug.
 
 80
 00:08:35,869 --> 00:08:42,130
-I brought some spaghetti to work and then forgot to wash out the
-container for the last couple of days, maybe six or seven...
+Ho portato degli spaghetti al lavoro, ma mi sono dimenticato di
+lavare il contenitore per un paio di giorni, forse 6 o 7…
 
 81
 00:08:42,271 --> 00:08:46,457
-if I had to be honest. Ooh, that smells bad.
+per dirla tutto. Ooh, l'odore è terribile.
 
 82
 00:08:47,706 --> 00:08:53,406
-Eating, bathing, having a girlfriend, having an active social life
+Nutrirsi, lavarsi, avere una relazione, una vita sociale
 
 83
 00:08:53,406 --> 00:09:00,365
-is incidental, it gets in the way of code time. Writing code
+Gelma is incidental, it gets in the way of code time. Writing code
 is the primary force that drives our lives so
 
 84
 00:09:00,431 --> 00:09:04,540
-anything that interrupts that is is wasteful.
+Gelma anything that interrupts that is is wasteful.
 
 85
 00:09:08,252 --> 00:09:12,000
-What is it about the internal logic of a computer
-that's so enticing?
+Cosa c'è di così seducente nella logica di funzionamento
+di un computer?
 
 86
 00:09:12,494 --> 00:09:15,609
-For one thing, such logic CAN be understood,
+Per prima cosa questa logica può essere compresa
 
 87
 00:09:15,609 --> 00:09:20,580
-as opposed to things that can't be understood at all,
-like the motivations of young women, say,
+contrariamente alle cose impossibili da capire,
+come le ragazze
 
 88
 00:09:20,580 --> 00:09:22,170
-or of the French.
+o i Francesi.
 
 89
 00:09:22,369 --> 00:09:23,827
-Let me explain...
+Fatemi spiegare…
 
 90
 00:09:24,890 --> 00:09:29,110
-Time for the Cringely crash course in basic computers,
-Part 1.
+È il momento per il corso di base veloce di computer di Cringely,
+prima parte.
 
 91
 00:09:29,230 --> 00:09:30,985
-This is a mainframe computer,
+Questo è un mainframe,
 
 92
 00:09:31,184 --> 00:09:35,757
-all of these cabinets are one machine. In the old days
-all computers were this size
+tutti questi armadi compongono un'unica macchina. All'epoca
+tutti i computer avevano questa dimensione
 
 93
 00:09:35,757 --> 00:09:37,945
-they were tended by engineers in white coats
+ed erano accuditi da ingegneri in camice bianco
 
 94
 00:09:37,945 --> 00:09:41,060
-a kind of priesthood who took their jobs very seriously.
+una sorta di sacerdoti che prendevano il loro lavoro
+molto sul serio.
 
 95
 00:09:41,457 --> 00:09:46,163
-Now all computers work pretty much the same, whether
- it's a giant that serves two thousand users like this one,
+Il funzionamento di un computer è sempre lo stesso,
+sia che si tratti di un gigante per 200 utenti
+come questo,
 
 96
 00:09:46,163 --> 00:09:48,748
-or a little notebook that serves only me.
+o il mio piccolo portatile tutto per me.
 
 97
 00:09:48,748 --> 00:09:52,725
-They process numerical data - adding, multiplying,
-comparing,
+Processano dati numerici: sommano, moltiplicano,
+comparano.
 
 98
 00:09:52,791 --> 00:09:55,906
-the fact is if you can quantify it a computer can handle it.
+Gelma the fact is if you can quantify it a computer can handle it.
 
 99
 00:09:55,906 --> 00:09:58,888
@@ -456,17 +458,17 @@ It's the emotional stuff they don't know what to do with.
 
 100
 00:09:59,352 --> 00:10:04,640
-The data must be put into a special binary code
-consisting only of ones and zeros.
+I dati devono essere convertiti in codice binario,
+quindi solo in zero e uno.
 
 101
 00:10:04,920 --> 00:10:10,023
-And you have to give the computer instructions, also
-in code, to tell it exactly what to do wth the data
+Inoltre vanno date al computer delle istruzioni, sempre
+nel codice, per spiegare cosa farne di questi dati,
 
 102
 00:10:10,023 --> 00:10:14,199
-and in what order. These instructions are called a program.
+e in che ordine. Queste istruzioni compogono un programma.
 
 103
 00:10:14,710 --> 00:10:19,633
@@ -573,12 +575,12 @@ He was the nerd.
 125
 00:11:47,510 --> 00:11:53,650
 And I took this book home that described the PDP 8 computer
-and it just...oh, it was just like a bible to me.
+and it just…oh, it was just like a bible to me.
 
 126
 00:11:53,947 --> 00:11:58,470
 I mean, all these things that for some reason I'd fallen
-in love with, like you might fall in love with...
+in love with, like you might fall in love with…
 
 127
 00:11:58,470 --> 00:12:02,431
@@ -603,7 +605,7 @@ and feel good inside.
 131
 00:12:16,900 --> 00:12:22,712
 So you would keyboard these commands in and then you
-would wait for a while and then the thing would go dadadada...
+would wait for a while and then the thing would go dadadada…
 
 132
 00:12:22,712 --> 00:12:24,170
@@ -1103,7 +1105,7 @@ could play tunes.
 
 239
 00:21:56,880 --> 00:22:02,380
-The radio began playing 'Fool on the Hill'....Da da da, da da da....
+The radio began playing 'Fool on the Hill'….Da da da, da da da….
 
 240
 00:22:02,513 --> 00:22:09,936
@@ -1274,7 +1276,7 @@ and he loaded BASIC with paper tape into the Altair.
 
 276
 00:25:14,670 --> 00:25:19,359
-I was just I was so nervous....this is just....it's not going to work 
+I was just I was so nervous….this is just….it's not going to work 
 and it worked.
 
 277
@@ -1663,7 +1665,7 @@ and eh and eh that's how it started.
 
 363
 00:32:42,096 --> 00:32:46,736
-Apple was at best a funky company...started by a couple of 
+Apple was at best a funky company…started by a couple of 
 teenage hackers who
 
 364
@@ -1854,7 +1856,7 @@ I first met him that he ate nothing but fruit.
 
 404
 00:35:56,800 --> 00:36:01,500
-- So as a mainline venture capitalist, is this...
+- So as a mainline venture capitalist, is this…
 
 405
 00:36:01,500 --> 00:36:05,371
@@ -2124,7 +2126,7 @@ gives you forty.
 463
 00:40:58,055 --> 00:41:01,790
 - And then well let's see what's the sales growth, say there's a 
-ten percent...
+ten percent…
 
 464
 00:41:01,790 --> 00:41:06,208
@@ -2168,7 +2170,7 @@ I wasn't very good at this stuff,
 472
 00:41:49,686 --> 00:41:54,590
 - what year do we make money and how much does the cost of money 
-that's what running numbers was...
+that's what running numbers was…
 
 473
 00:41:54,590 --> 00:41:59,495
@@ -2177,7 +2179,7 @@ could mean disaster.
 
 474
 00:41:59,495 --> 00:42:04,400
-- ...it blows your all number afterwards because you make all your 
+- …it blows your all number afterwards because you make all your 
 calculations based on the other numbers before them.
 
 475
@@ -2259,12 +2261,12 @@ in your face.
 491
 00:43:15,380 --> 00:43:19,161
 I meet these people now they come up to me and say 
-"I gotta tell you you know..."
+"I gotta tell you you know…"
 
 492
 00:43:19,294 --> 00:43:22,741
 (BOB): You changed my life.
-(DAN): You changed my life. You made accounting fun and...
+(DAN): You changed my life. You made accounting fun and…
 
 493
 00:43:22,939 --> 00:43:27,313
@@ -2363,7 +2365,7 @@ leverage buy-out.
 
 514
 00:44:58,247 --> 00:45:00,501
-It was the perfect tool for the eighties...
+It was the perfect tool for the eighties…
 
 515
 00:45:00,633 --> 00:45:04,809
@@ -2436,7 +2438,7 @@ You know, looking back at how successful a lot of other people
 
 530
 00:46:32,494 --> 00:46:34,748
-have been it's kind of sad that we weren't as successful...
+have been it's kind of sad that we weren't as successful…
 
 531
 00:46:35,013 --> 00:46:37,863
@@ -2529,11 +2531,11 @@ The nerds had inherited the earth.
 
 551
 00:47:55,143 --> 00:47:56,601
- I was worth...
+ I was worth…
 
 552
 00:47:58,656 --> 00:48:02,301
-...about over a million dollars when I was twenty-three
+…about over a million dollars when I was twenty-three
 
 553
 00:48:02,765 --> 00:48:08,067
@@ -2603,7 +2605,7 @@ of the market.
 
 567
 00:49:22,400 --> 00:49:25,547
-To the boys in Cupertino, every day seemed like Christmas...
+To the boys in Cupertino, every day seemed like Christmas…
 
 568
 00:49:25,679 --> 00:49:27,700

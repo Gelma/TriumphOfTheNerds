@@ -49,7 +49,7 @@ But now let's welcome the chairman of Microsoft.
 12
 00:01:37,021 --> 00:01:43,321
 Listen to this. This is a man, a man so successful
-his chaffeur is Ross Perot ladies and gentlemen...
+his chaffeur is Ross Perot ladies and gentlemen…
 
 13
 00:01:45,022 --> 00:01:46,522
@@ -89,11 +89,11 @@ faster, easier and more fun.
 
 21
 00:02:26,230 --> 00:02:30,230
-And for seven years it was a lonely, lonely crusade...
+And for seven years it was a lonely, lonely crusade…
 
 22
 00:02:32,031 --> 00:02:36,531
-this moves the whole PC industry up to a whole new level...
+this moves the whole PC industry up to a whole new level…
 
 23
 00:02:37,032 --> 00:02:42,032
@@ -113,7 +113,7 @@ nicer to look at and easier to use than ever before.
 26
 00:02:51,835 --> 00:02:57,335
 They'll no longer be just for geeks and nerds they'll be
-so easy to use that even my mother will want one...
+so easy to use that even my mother will want one…
 
 27
 00:02:57,536 --> 00:03:02,536
@@ -268,7 +268,7 @@ Xerox was in trouble.
 
 61
 00:05:40,070 --> 00:05:44,570
-Unless... they could dominate
+Unless… they could dominate
 the paperless office of the future.
 
 62
@@ -320,7 +320,7 @@ Strange, as the staff never exceeded 50.
 
 73
 00:06:27,581 --> 00:06:29,581
-See you didn't get your butt low enough...
+See you didn't get your butt low enough…
 
 74
 00:06:29,582 --> 00:06:34,582
@@ -337,7 +337,7 @@ BOB TAYLOR: Now let's see you get out of it.
 
 77
 00:06:36,585 --> 00:06:41,085
-BOB: I feel my neural capacity already increasing - Oh God...
+BOB: I feel my neural capacity already increasing - Oh God…
 
 78
 00:06:41,586 --> 00:06:47,086
@@ -369,7 +369,7 @@ on five year programs that were their dreams.
 84
 00:07:11,592 --> 00:07:16,092
 This is a computer room in the basement of
-the Xerox Pala Alto Research Centre...
+the Xerox Pala Alto Research Centre…
 
 85
 00:07:16,093 --> 00:07:20,093
@@ -383,7 +383,7 @@ and eh there's one that we're really interested in here
 
 87
 00:07:27,095 --> 00:07:31,095
-let's see... here it is... let me turn on the lights.
+let's see… here it is… let me turn on the lights.
 
 88
 00:07:32,596 --> 00:07:34,596
@@ -440,7 +440,7 @@ It was friendly and intuitive.
 100
 00:08:14,012 --> 00:08:17,512
 Commercial:
-This is an experimental office system. It's in use now...
+This is an experimental office system. It's in use now…
 
 101
 00:08:17,513 --> 00:08:22,013
@@ -644,7 +644,7 @@ they showed me that but I didn't even see that.
 
 144
 00:12:12,056 --> 00:12:15,056
-The other one they showed me was a networked computer system...
+The other one they showed me was a networked computer system…
 
 145
 00:12:15,057 --> 00:12:19,557
@@ -741,7 +741,7 @@ that was designed to be easy to use,
 164
 00:14:00,076 --> 00:14:05,076
 a machine that anybody could operate
-and find friendly...even the French.
+and find friendly…even the French.
 
 165
 00:14:06,577 --> 00:14:10,077
@@ -1028,7 +1028,7 @@ Apple was in trouble.
 
 227
 00:18:42,539 --> 00:18:45,039
-And this was what was giving Apple such a headache...
+And this was what was giving Apple such a headache…
 
 228
 00:18:45,040 --> 00:18:48,540
@@ -1056,7 +1056,7 @@ where can they turn - to IBM.
 
 233
 00:19:05,545 --> 00:19:09,045
-What was driving IBM PC sales was software...
+What was driving IBM PC sales was software…
 
 234
 00:19:09,046 --> 00:19:13,546
@@ -1134,7 +1134,7 @@ to whip up enthusiasm among software developers.
 250
 00:20:09,062 --> 00:20:12,562
 And now ladies and gentlemen
-the Macintosh Software Dating Game...
+the Macintosh Software Dating Game…
 
 251
 00:20:13,063 --> 00:20:17,563
@@ -1161,7 +1161,7 @@ for almost two years now
 
 256
 00:20:33,568 --> 00:20:37,068
-and we put some of our really good people on it and eh...
+and we put some of our really good people on it and eh…
 
 257
 00:20:38,069 --> 00:20:40,569
@@ -1201,7 +1201,7 @@ and what Steve was doing there.
 265
 00:21:09,577 --> 00:21:13,577
 Most people don't remember, but until the Mac,
-Microsoft was not in the applications business...
+Microsoft was not in the applications business…
 
 266
 00:21:13,578 --> 00:21:15,078
@@ -1235,7 +1235,7 @@ Jobs believed that Apple's true enemy was IBM.
 
 273
 00:21:43,585 --> 00:21:47,085
-Will Big Blue dominate the entire computer industry...
+Will Big Blue dominate the entire computer industry…
 
 274
 00:21:48,586 --> 00:21:51,086
@@ -1252,7 +1252,7 @@ the IBM PC was hurting Apple's business.
 
 277
 00:22:03,089 --> 00:22:06,589
-And most pundits considered that...
+And most pundits considered that…
 
 278
 00:22:06,590 --> 00:22:09,590
@@ -1383,12 +1383,12 @@ the Apple 2 in 1977 and the IBM PC in 1981.
 
 306
 00:24:23,518 --> 00:24:25,518
-Today...one year after LISA
+Today…one year after LISA
 
 307
 00:24:25,519 --> 00:24:30,019
 we are introducing the third industry milestone product
-...Macintosh.
+…Macintosh.
 
 308
 00:24:34,020 --> 00:24:37,520
@@ -1862,7 +1862,7 @@ what would happen to this company
 409
 00:33:10,021 --> 00:33:14,521
 without the visionary, without the founder,
-without the care, without the charisma...
+without the care, without the charisma…
 
 410
 00:33:15,022 --> 00:33:17,522
@@ -1894,11 +1894,11 @@ look like a beach party
 416
 00:33:46,528 --> 00:33:50,028
 and with a median age of twenty seven
-the company was very sexy too...
+the company was very sexy too…
 
 417
 00:33:50,029 --> 00:33:51,529
-...maybe too sexy.
+…maybe too sexy.
 
 418
 00:33:51,530 --> 00:33:55,030
@@ -2177,7 +2177,7 @@ that the Macintosh would win the gui wars.
 
 477
 00:38:36,589 --> 00:38:40,589
-Today we're introducing Microsoft Windows version 3...
+Today we're introducing Microsoft Windows version 3…
 
 478
 00:38:41,090 --> 00:38:46,090
@@ -2271,7 +2271,7 @@ I mean that in a big way.
 
 497
 00:40:08,509 --> 00:40:10,509
-In the sense that...
+In the sense that…
 
 498
 00:40:15,010 --> 00:40:22,010
@@ -2342,7 +2342,7 @@ which I gotta to say sting eh sometimes,
 512
 00:41:22,024 --> 00:41:26,524
 I say to myself just you watch,
-just you watch Windows 95, Windows 9...
+just you watch Windows 95, Windows 9…
 
 513
 00:41:26,525 --> 00:41:30,525
@@ -2359,7 +2359,7 @@ And i think even in the operating systems here now,
 
 516
 00:41:36,528 --> 00:41:42,028
-you'll start to see clear, clear...
+you'll start to see clear, clear…
 and people will recognise clear leadership.
 
 517
